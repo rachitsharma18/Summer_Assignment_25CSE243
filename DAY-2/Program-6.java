@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program5 {
+public class Program6 {
     public static void main(String[] args) {
 
         // Input
@@ -9,17 +9,17 @@ public class Program5 {
         System.out.print("Enter Number: ");
         int n = sc.nextInt();
 
-        // Sum
-        int sum = 0;
+        // Reverse
+        int reverse = 0;
 
         while (n != 0) {
             int digit = n % 10;
-            sum += digit;
+            reverse = reverse * 10 + digit;
             n /= 10;
         }
 
         // Output
-        System.out.println("Sum of Digits = " + sum);
+        System.out.println("Reversed Number = " + reverse);
 
         sc.close();
     }
