@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program4 {
+public class Program5 {
     public static void main(String[] args) {
 
         // Input
@@ -9,20 +9,17 @@ public class Program4 {
         System.out.print("Enter Number: ");
         int n = sc.nextInt();
 
-        // Count
-        int count = 0;
+        // Sum
+        int sum = 0;
 
-        if (n == 0) {
-            count = 1;
-        } else {
-            while (n != 0) {
-                n /= 10;
-                count++;
-            }
+        while (n != 0) {
+            int digit = n % 10;
+            sum += digit;
+            n /= 10;
         }
 
         // Output
-        System.out.println("Digits = " + count);
+        System.out.println("Sum of Digits = " + sum);
 
         sc.close();
     }
