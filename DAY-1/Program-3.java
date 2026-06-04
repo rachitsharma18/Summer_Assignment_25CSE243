@@ -17,7 +17,7 @@ public class Program3 {
         }
 
         // Output
-        System.out.println("Factorial of a given number is = " + fact);
+        System.out.println("Factorial of a given number is= " + fact);
 
         sc.close();
     }
