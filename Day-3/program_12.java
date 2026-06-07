@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program11 {
+public class Program12 {
     public static void main(String[] args) {
 
         // Input
@@ -12,17 +12,17 @@ public class Program11 {
         System.out.print("Enter Second Number: ");
         int num2 = sc.nextInt();
 
-        // GCD
-        int gcd = 1;
+        // Store
+        int max = (num1 > num2) ? num1 : num2;
 
-        for (int i = 1; i <= num1 && i <= num2; i++) {
-            if (num1 % i == 0 && num2 % i == 0) {
-                gcd = i;
+        // LCM
+        while (true) {
+            if (max % num1 == 0 && max % num2 == 0) {
+                System.out.println("LCM = " + max);
+                break;
             }
+            max++;
         }
-
-        // Output
-        System.out.println("GCD = " + gcd);
 
         sc.close();
     }
