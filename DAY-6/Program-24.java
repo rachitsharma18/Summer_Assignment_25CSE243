@@ -1,20 +1,27 @@
-#include <stdio.h>
+import java.util.Scanner;
 
-int main() {
-    int x, n;
-    long long result = 1;
+public class Program28 {
+    public static void main(String[] args) {
 
-    printf("Enter base (x): ");
-    scanf("%d", &x);
+        // Input
+        Scanner sc = new Scanner(System.in);
 
-    printf("Enter power (n): ");
-    scanf("%d", &n);
+        System.out.print("Enter Base (x): ");
+        int x = sc.nextInt();
 
-    for(int i = 1; i <= n; i++) {
-        result = result * x;
+        System.out.print("Enter Power (n): ");
+        int n = sc.nextInt();
+
+        // Power
+        int result = 1;
+
+        for (int i = 1; i <= n; i++) {
+            result *= x;
+        }
+
+        // Output
+        System.out.println("Result = " + result);
+
+        sc.close();
     }
-
-    printf("%d^%d = %lld\n", x, n, result);
-
-    return 0;
 }
