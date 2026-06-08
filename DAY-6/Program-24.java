@@ -24,4 +24,4 @@ public class Program28 {
 
         sc.close();
     }
-}
+} 
