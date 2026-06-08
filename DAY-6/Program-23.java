@@ -1,17 +1,29 @@
-#include <stdio.h>
+import java.util.Scanner;
 
-int main() {
-    int num, count = 0;
+public class Program27 {
+    public static void main(String[] args) {
 
-    printf("Enter a number: ");
-    scanf("%d", &num);
+        // Input
+        Scanner sc = new Scanner(System.in);
 
-    while (num > 0) {
-        count += num % 2;  // Check if last bit is 1
-        num /= 2;
+        System.out.print("Enter Number: ");
+        int n = sc.nextInt();
+
+        // Count
+        int count = 0;
+
+        while (n > 0) {
+
+            if (n % 2 == 1) {
+                count++;
+            }
+
+            n = n / 2;
+        }
+
+        // Output
+        System.out.println("Set Bits = " + count);
+
+        sc.close();
     }
-
-    printf("Number of set bits = %d\n", count);
-
-    return 0;
 }
