@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program23 {
+public class Program27 {
 
     // Sum of Digits
     static int sumDigits(int n) {
