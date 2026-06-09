@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program21 {
+public class Program25 {
 
     // Factorial
     static int factorial(int n) {
