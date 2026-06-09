@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program24 {
+public class Program28 {
 
     // Reverse
     static int reverse = 0;
