@@ -49,10 +49,10 @@ Day 4	✅ Completed
 Day 5 ✅ Completed
 Day 6 ✅ Completed
 Day 7 ✅ Completed
-Day 8
-Day 9
-Day 10	
-Day 11
+Day 8 ✅ Completed
+Day 9 ✅ Completed
+Day 10	✅ Completed
+Day 11✅ Completed
 Day 12
 Day 13
 Day 14
