@@ -54,8 +54,8 @@ Day 9 ✅ Completed
 Day 10	✅ Completed
 Day 11✅ Completed
 Day 12✅ Completed
-Day 13
-Day 14
+Day 13✅️ Completed 
+Day 14✅️ Completed 
 Day 15
 Day 16	
 Day 17
