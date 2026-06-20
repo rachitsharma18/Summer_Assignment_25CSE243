@@ -56,8 +56,8 @@ Day 11✅ Completed
 Day 12✅ Completed
 Day 13✅️ Completed 
 Day 14✅️ Completed 
-Day 15
-Day 16	
+Day 15✅️ Completed 
+Day 16✅️ Completed 
 Day 17
 Day 18
 Day 19
