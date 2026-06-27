@@ -59,13 +59,13 @@ Day 14✅️ Completed
 Day 15✅️ Completed 
 Day 16✅️ Completed 
 Day 17✅️ Completed 
-Day 18
-Day 19
-Day 20
-Day 21
-Day 22
-Day 23
-Day 24
+Day 18✅️ Completed 
+Day 19✅️ Completed 
+Day 20✅️ Completed 
+Day 21✅️ Completed 
+Day 22✅️ Completed 
+Day 23✅️ Completed 
+Day 24✅️ Completed 
 Day 25
 Day 26	
 Day 27
