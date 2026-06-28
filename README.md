@@ -66,8 +66,8 @@ Day 21✅️ Completed
 Day 22✅️ Completed 
 Day 23✅️ Completed 
 Day 24✅️ Completed 
-Day 25
-Day 26	
+Day 25✅️ Completed 
+Day 26✅️ Completed 
 Day 27
 Day 28
 Day 29
