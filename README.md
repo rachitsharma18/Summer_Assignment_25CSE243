@@ -68,9 +68,9 @@ Day 23✅️ Completed
 Day 24✅️ Completed 
 Day 25✅️ Completed 
 Day 26✅️ Completed 
-Day 27
-Day 28
-Day 29
+Day 27✅️ Completed 
+Day 28✅️ Completed 
+Day 29✅️ Completed 
 Day 30
 
 
